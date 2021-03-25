@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\Net5Auth.csproj": {}
+    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\dotNet-5-Basic-Auth-with-JWT\\Net5Auth.csproj": {}
   },
   "projects": {
-    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\Net5Auth.csproj": {
+    "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\dotNet-5-Basic-Auth-with-JWT\\Net5Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\Net5Auth.csproj",
+        "projectUniqueName": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\dotNet-5-Basic-Auth-with-JWT\\Net5Auth.csproj",
         "projectName": "Net5Auth",
-        "projectPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\Net5Auth.csproj",
+        "projectPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\dotNet-5-Basic-Auth-with-JWT\\Net5Auth.csproj",
         "packagesPath": "C:\\Users\\Hernanda\\.nuget\\packages\\",
-        "outputPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\obj\\",
+        "outputPath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\dotNet-5-Basic-Auth-with-JWT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UqPgUkJMhswi7cGNs+P9ltQin5ZDgSU3DPj/QLHZHgNI3PhJv2iHT9iBevG6CaSDiAW+ZjbJT+ZxC6/Hs3SAhA==",
+  "dgSpecHash": "9ZnVi873Bt8+MYzWGsZovGXngvE1UuTlclmi5rf7jd57tkcK+W3lhP20cqHORWWPCPsbT9Nt6U5TLHrucmJpcQ==",
   "success": true,
-  "projectFilePath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\Net5Auth.csproj",
+  "projectFilePath": "G:\\WORKING FOLDER\\OTHER\\WEBSITE C#\\Net5Auth\\dotNet-5-Basic-Auth-with-JWT\\Net5Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hernanda\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hernanda\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
